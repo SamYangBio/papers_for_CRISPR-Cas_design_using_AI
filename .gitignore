@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
+.idea/
+.vscode/
+
+# Optional: large or temporary files
+*.log
+*.tmp
+
+# 综述不随库一起发布（在文章中引用本库即可）
+综述初稿.md
