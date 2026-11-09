@@ -45,4 +45,5 @@ Get guides at [MarkdownGuide](https://www.markdownguide.org/getting-started/) if
 
 Once your pull request is approved, your GitHub ID will be listed among contributors.
 
-This repository is a standalone list; a detailed review article that cites this repo may be published separately (see README).
+This repository is a companion list for the review article:  
+https://www.preprints.org/manuscript/202608.0824 (see README for citation).

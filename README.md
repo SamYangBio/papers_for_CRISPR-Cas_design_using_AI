@@ -3,12 +3,12 @@
 [![Awesome]]
 [![Update: Monthly]](#)
 [![License: GPL v3]](LICENSE)
-[![Paper]](#)
+[![Paper](https://img.shields.io/badge/Preprint-Preprints.org-blue)](https://www.preprints.org/manuscript/202608.0824)
 
 > **A curated, monthly-updated list of papers, tools, and datasets for AI-driven CRISPR-Cas system design.** 
 > *Next scheduled update: First week of May 2026*
 
-This repository serves as the official companion resource for our comprehensive review article: **"Evolution of AI-Driven CRISPR Systems: Tools, Methods, and Future Directions"** (Currently under review at *Briefings in Bioinformatics*). 
+This repository serves as the official companion resource for our comprehensive review article: **"Evolution of AI-Driven CRISPR Systems: Tools, Methods, and Future Directions"** ([Preprints.org](https://www.preprints.org/manuscript/202608.0824)). 
 
 Inspired by [papers_for_protein_design_using_DL], we categorize the tools into 8 functional modules (**C1–C8**) following the logical workflow of genome editing, bridging the gap between computational algorithms and wet-lab applications.
 
@@ -147,7 +147,7 @@ Our review highlights three landmark cases where AI resolved long-standing bottl
 ## 📅 Recent Updates (Changelog)
 
 * **[2026.04]** 
-  * Repository officially launched to accompany our BiB review article.
+  * Repository officially launched to accompany our review article on Preprints.org: [202608.0824](https://www.preprints.org/manuscript/202608.0824).
   * Initialized C1-C8 categorization and formatted tables.
   * Added foundational papers for CRISPR-Cas sequence generation (C4) and structure generation (C5).
 
@@ -162,14 +162,27 @@ We welcome contributions! If you have a paper or tool that belongs on this list:
 
 ## 📝 Citation
 
-If you find this repository useful for your research, please consider citing our review article (Citation details will be updated upon publication) and this repository:
+If you find this repository useful for your research, please cite our review article and this repository:
+
+**Review article (preprint):**  
+Yang et al. Evolution of AI-Driven CRISPR Systems: Tools, Methods, and Future Directions. *Preprints* **2026**, 202608.0824. https://www.preprints.org/manuscript/202608.0824
 
 ```bibtex
+@article{Yang2026AIDrivenCRISPR,
+  author  = {Yang, Sam and others},
+  title   = {Evolution of AI-Driven CRISPR Systems: Tools, Methods, and Future Directions},
+  journal = {Preprints},
+  year    = {2026},
+  number  = {202608.0824},
+  url     = {https://www.preprints.org/manuscript/202608.0824},
+  note    = {Preprint}
+}
+
 @misc{SamYangBio2026,
-  author = {Yang, Sam and others},
-  title = {Awesome AI-Driven CRISPR Design: A Curated List of Papers and Tools},
-  year = {2026},
-  publisher = {GitHub},
-  journal = {GitHub repository},
+  author       = {Yang, Sam and others},
+  title        = {Awesome AI-Driven CRISPR Design: A Curated List of Papers and Tools},
+  year         = {2026},
+  publisher    = {GitHub},
   howpublished = {\url{https://github.com/SamYangBio/papers_for_CRISPR-Cas_design_using_AI}}
 }
+```
